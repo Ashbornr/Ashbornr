@@ -1,158 +1,103 @@
-````md
 <div align="center">
 
-# ⚡ Aditya Kumar Singh
+# Ashborn ⚡
 
-### *Building things, breaking things, learning things, repeating the cycle.*
-
-```txt
-PLAYER STATS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Class      : BCA Student
-Origin     : Gujarat, India
-Role       : Developer • Designer • Gamer
-Current XP : DSA • Java • Web Development
-Side Quest : Creating products that don't feel generic
-Mana       : Coffee + Late Night Ideas
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-````
+### *Building things, learning things, and trying to make products that don't feel generic.*
 
 </div>
 
 ---
 
-## 📖 The Story So Far
+## About Me
 
-Started with curiosity.
+```txt
+Name      → Aditya Kumar Singh
+Location  → Gujarat, India
+Education → BCA Student (Semester 3)
+Focus     → DSA • Java • Web Development
+Interests → UI/UX • Gaming • Minecraft • Figma
+```
 
-Learned how websites work.
+I enjoy building things, experimenting with ideas, and creating projects that have their own personality instead of following common trends.
 
-Got into gaming.
-
-Built projects.
-
-Learned that design is more than adding neon lights everywhere.
-
-Still exploring.
-
-Still building.
-
-Still asking:
-
-> "Can this be more creative than what everyone else is doing?"
+Currently exploring software development, design, databases, and problem-solving while balancing college life and side projects.
 
 ---
 
-## 🧰 My Toolbox
+## Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge\&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge\&logo=css)
-
----
+![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb)
-![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![NoSQL](https://img.shields.io/badge/NoSQL-black?style=for-the-badge)
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux_Commands-black?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge\&logo=figma)
+![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge)
 
 ---
 
-### Tools & Things I Use
+## Projects
 
-![Linux](https://img.shields.io/badge/Linux_Commands-000000?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+### 💬 Real-Time Chat Application
 
----
+A real-time web chat platform focused on instant communication and smooth user interaction.
 
-# 🗂️ Things I've Built
-
-## 🛒 E-Commerce Store
-
-A complete shopping platform with products, carts, orders, and user interaction.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • PHP • MongoDB
+**Tech:** JavaScript • WebSockets • HTML • CSS
 
 ---
 
-## 📦 Core Inventory Management System
+### 📦 Core Inventory Management System
 
-Managing products, stock, and business operations efficiently.
+A system for managing products, stock, and business operations efficiently.
 
-**Tech Stack**
-
-Java • Database Systems
+**Tech:** Java • Database Systems
 
 ---
 
-## 💬 Real-Time Chat Application
+### 🛒 E-Commerce Store
 
-A real-time messaging platform with instant communication.
+An online shopping platform featuring products, carts, orders, and user management.
 
-**Tech Stack**
-
-JavaScript • Web Technologies • Real-Time Communication
+**Tech:** PHP • JavaScript • MongoDB • HTML • CSS
 
 ---
 
-# 🎮 Beyond Programming
-
-When I'm not coding:
-
-🎮 Playing games
-
-⚡ Part of Lightning X eSports
-
-📚 Learning something random from college
-
-🎨 Designing interfaces in Figma
-
-⛏️ Building weird things in Minecraft
-
----
-
-# 🌱 Currently Learning
+## Currently Learning
 
 ```txt
-[■■■■■■■■□□□□] DSA
-
-[■■■■■■■■■□□□] Java
-
-[■■■■■■□□□□□] MongoDB
-
-[■■■■■■■■■□□□] Linux
-
-[■■■■■■□□□□□] System Design
+✓ Data Structures & Algorithms
+✓ Advanced Java
+✓ MongoDB & NoSQL
+✓ Linux Commands
+✓ Better UI/UX Design
 ```
 
 ---
 
-# 💭 Philosophy
+## Beyond Coding
 
-> Great products are remembered because they feel different,
-> not because they use the latest trend.
+* 🎮 eSports enthusiast
+* ⚡ Member of Lightning X eSports
+* 🎨 UI/UX designing with Figma
+* ⛏️ Minecraft builder and mod enthusiast
+* 🚀 Exploring new technologies and ideas
 
 ---
 
-<div align="center">
-
-### Thanks for visiting.
-
-*"The next project is always the most exciting one."*
-
-</div>
-```
+> *"The next project is always the most exciting one."*
