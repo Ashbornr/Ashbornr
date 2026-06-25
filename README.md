@@ -1,29 +1,58 @@
 # ⚡ Ashborn | Aditya Kumar Singh
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Building+with+personality.;Breaking+generic+templates.;BCA+Semester+5+Student." alt="Typing SVG" />
+  <strong>Building things, learning things, and crafting products that don't feel generic.</strong>
 </p>
 
 <p align="center">
-  <strong>Gujarat, India</strong> • <code>BCA Sem 5</code> • <code>Developer × Designer</code>
+  <img src="https://img.shields.io/badge/Education-BCA%20Semester%205-blueviolet?style=for-the-badge" alt="BCA Semester 5">
+  <img src="https://img.shields.io/badge/Location-Gujarat,%20India-orange?style=for-the-badge" alt="Gujarat, India">
 </p>
 
 ---
 
-### 🌌 The Philosophy
-> *"Most products feel like templates. I like building things that actually have a soul."*
+### 🌌 About Me
 
-I’m a developer and UI/UX designer currently navigating **Semester 5 of my BCA**. I sit right at the intersection of heavy backend logic (Java, Node.js) and pixel-perfect, interactive frontends (React, Figma). If it looks generic, I’ll probably rewrite it.
+I am a developer who believes software shouldn't just function—it should have character. Currently navigating my **5th Semester of BCA**, I bridge the gap between robust backend logic and intuitive, personality-driven user interfaces. When I'm not optimizing algorithms, I'm usually sketching layouts in Figma or configuring Minecraft mods.
 
 ---
 
-### 🚀 Tech Stack & Ecosystem
+### 🛠️ The Tech Stack
 
-```json
-{
-  "frontend": ["React.js", "JavaScript (ES6+)", "Tailwind CSS", "HTML5/CSS3"],
-  "backend":  ["Node.js", "Express", "Java (Advanced)", "PHP"],
-  "database": ["MongoDB (NoSQL)", "SQL", "Database Systems"],
-  "design":   ["Figma", "UI/UX Micro-interactions", "Design Systems"],
-  "workflow": ["Linux CLI", "Git", "Postman", "WebSockets"]
-}
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` • `JavaScript (ES6+)` • `HTML5 / CSS3` • `PHP` |
+| **Frontend Frameworks** | `React.js` • `Tailwind CSS` |
+| **Backend & Databases** | `Node.js` • `Express` • `MongoDB` • `SQL / NoSQL` • `WebSockets` |
+| **Tools & Design** | `Figma` • `Git & GitHub` • `Linux (CLI)` • `Postman` |
+
+---
+
+### 🚀 Featured Projects
+
+#### 💬 Real-Time Chat Application
+*A real-time web chat platform focused on instant, low-latency communication and fluid animations.*
+* **Tech Stack:** JavaScript • Node.js • WebSockets • HTML5 • CSS3
+* **Core Focus:** Event-driven architecture and seamless UX.
+
+#### 📦 Core Inventory Management System
+*A lightweight, performant desktop/server system tailored for efficient business stock operations.*
+* **Tech Stack:** Java • Database Systems (SQL) • Object-Oriented Design
+* **Core Focus:** Memory optimization, clean architecture, and rigid data validation.
+
+#### 🛒 Next-Gen E-Commerce Store
+*An end-to-end online shopping portal utilizing modern web technologies for state and database management.*
+* **Tech Stack:** React.js • PHP • MongoDB • Tailwind CSS
+* **Core Focus:** Dynamic UI rendering, robust cart state, and flexible NoSQL schema design.
+
+---
+
+### 📚 Current Deep Dives
+
+```txt
+┌────────────────────────────────────────────────────────┐
+│  🚀 Advanced React Patterns & State Management (Redux) │
+│  📈 Hardcore DSA Optimization (Java)                   │
+│  🛡️ Secure API Design & Middleware with Node.js         │
+│  🎨 Advanced Micro-Interactions in Figma               │
+└────────────────────────────────────────────────────────┘
