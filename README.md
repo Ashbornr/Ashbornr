@@ -1,89 +1,122 @@
-# Ashborn
+# ◉ ARCHIVE : A-05
 
 ```txt
-> still learning.
-> still building.
-> still figuring out why one line of code breaks everything.
-```
-
-I’m Aditya, a BCA student from Gujarat who enjoys building things on the web, experimenting with interfaces, and learning how software works under the hood.
-
-Right now, I'm focused on improving my problem-solving skills, exploring modern web technologies, and turning ideas into projects that people can actually use.
-
----
-
-## Things I Work With
-
-```txt
-Languages
-├── C
-├── C++
-├── Java
-├── Python
-├── PHP
-└── JavaScript
-
-Frontend
-├── HTML
-├── CSS
-├── React
-├── Three.js
-└── WebGL
-
-Database
-├── MongoDB
-└── NoSQL Concepts
-
-Tools
-├── Git
-├── Linux Commands
-├── Figma
-├── Cursor
-└── Antigravity
+ACCESS LEVEL : PUBLIC
+ENTITY        : ASHBORN
+STATUS        : ACTIVE
+LAST SEEN     : BUILDING SOMETHING UNNECESSARY
 ```
 
 ---
 
-## Projects
+## ◌ OBSERVED BEHAVIOURS
 
-### Real-Time Chat Application
+```diff
++ enjoys turning random ideas into projects
 
-A web application focused on instant communication and real-time interaction.
++ believes good design is invisible
 
-### Core Inventory Management System
++ occasionally spends hours fixing a bug
+  created 5 minutes earlier
 
-An academic project for managing products, stock, and basic business operations.
-
-### E-Commerce Store
-
-An online shopping platform with products, carts, users, and order management.
-
----
-
-## Currently Exploring
-
-* Data Structures & Algorithms
-* Advanced Java
-* React Ecosystem
-* Three.js & WebGL
-* Better UI/UX Design
-* System Thinking
++ learns by building first and reading documentation later
+```
 
 ---
 
-## Random Facts
+## ◌ ARTIFACTS RECOVERED
 
-* I enjoy creating interfaces in Figma before writing code.
-* Minecraft taught me more about creativity than I expected.
-* I prefer projects with personality over projects that follow every trend.
-* Most ideas begin with: *"What if I try this?"*
+```yaml
+artifact_001:
+  name: Real-Time Chat
+  purpose: "Making browsers talk to each other."
+
+artifact_002:
+  name: Core Inventory System
+  purpose: "Teaching databases who owns what."
+
+artifact_003:
+  name: E-Commerce Store
+  purpose: "Convincing users to press the checkout button."
+```
 
 ---
+
+## ◌ KNOWN LANGUAGES
 
 ```txt
-The repository count will grow.
+C
+C++
+Java
+Python
+PHP
+JavaScript
 
-The skill tree will expand.
+HTML
+CSS
+React
 
-The bugs will never truly disappear.
+Three.js
+WebGL
+
+MongoDB
+NoSQL
+```
+
+---
+
+## ◌ TOOLS FOUND IN THE WORKSPACE
+
+```txt
+Git
+Linux
+Figma
+Cursor
+Antigravity
+Coffee
+Questionable Ideas
+```
+
+---
+
+## ◌ CURRENT EXPERIMENTS
+
+```txt
+[■■■■□□□□□□] DSA
+
+[■■■■■■■□□□] Advanced Java
+
+[■■■■■□□□□□] React
+
+[■■■□□□□□□□] Three.js + WebGL
+
+[■■■■□□□□□□] MongoDB
+```
+
+---
+
+## ◌ FIELD NOTES
+
+> Most projects begin with:
+
+```javascript
+function idea() {
+    return "this shouldn't be too difficult";
+}
+```
+
+Nobody knows why this statement is false.
+
+---
+
+## ◌ FINAL ENTRY
+
+```txt
+The repository count will increase.
+
+The commits will continue.
+
+The bugs will evolve.
+
+The builder remains.
 ```
