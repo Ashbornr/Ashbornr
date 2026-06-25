@@ -1,81 +1,89 @@
-# /home/ashborn
+# Ashborn
 
-> Status: Building things that shouldn't exist yet.
+```txt
+> still learning.
+> still building.
+> still figuring out why one line of code breaks everything.
+```
 
-Last updated: probably at 2 AM.
+I’m Aditya, a BCA student from Gujarat who enjoys building things on the web, experimenting with interfaces, and learning how software works under the hood.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Right now, I'm focused on improving my problem-solving skills, exploring modern web technologies, and turning ideas into projects that people can actually use.
 
-currently_learning.log
+---
 
-+ Data Structures & Algorithms
-+ Advanced Java
-+ React
-+ Three.js & WebGL
-+ MongoDB
-+ Linux
+## Things I Work With
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```txt
+Languages
+├── C
+├── C++
+├── Java
+├── Python
+├── PHP
+└── JavaScript
 
-installed_tools.pkg
+Frontend
+├── HTML
+├── CSS
+├── React
+├── Three.js
+└── WebGL
 
-languages:
-• C
-• C++
-• Java
-• Python
-• PHP
-• JavaScript
+Database
+├── MongoDB
+└── NoSQL Concepts
 
-frontend:
-• HTML
-• CSS
-• React
-• Three.js
-• WebGL
+Tools
+├── Git
+├── Linux Commands
+├── Figma
+├── Cursor
+└── Antigravity
+```
 
-database:
-• MongoDB
-• NoSQL
+---
 
-design:
-• Figma
+## Projects
 
-workflow:
-• Git
-• Linux
-• Cursor
-• Antigravity
+### Real-Time Chat Application
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A web application focused on instant communication and real-time interaction.
 
-active_projects.db
+### Core Inventory Management System
 
-[001]
-real-time-chat
+An academic project for managing products, stock, and basic business operations.
 
-A web application focused on instant communication.
+### E-Commerce Store
 
-—
+An online shopping platform with products, carts, users, and order management.
 
-[002]
-core-inventory
+---
 
-Managing products, stock, and business logic.
+## Currently Exploring
 
-—
+* Data Structures & Algorithms
+* Advanced Java
+* React Ecosystem
+* Three.js & WebGL
+* Better UI/UX Design
+* System Thinking
 
-[003]
-e-commerce-store
+---
 
-Shopping, orders, users, and backend systems.
+## Random Facts
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+* I enjoy creating interfaces in Figma before writing code.
+* Minecraft taught me more about creativity than I expected.
+* I prefer projects with personality over projects that follow every trend.
+* Most ideas begin with: *"What if I try this?"*
 
-random_thoughts.txt
+---
 
-I like building things that have their own identity.
+```txt
+The repository count will grow.
 
-Not everything needs to look the same.
+The skill tree will expand.
 
-Sometimes the weird idea is the better idea.
+The bugs will never truly disappear.
+```
